@@ -1,14 +1,15 @@
-Calculator
+# Calculator
   
     This is a general calculator project using only html and css.
 
-#Purpose
+## Purpose
 
     This project is done by me in the learning phase.
 
-#Copyrigth
+## Copyrigth
 
-    :tm:tofayel
-#Credit
+    &copy;tofayel
+    
+## Credit
 
     motivated from YT-GreatStack

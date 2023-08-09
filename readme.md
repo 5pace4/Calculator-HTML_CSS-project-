@@ -1,4 +1,4 @@
-#Calculator
+Calculator
   
     This is a general calculator project using only html and css.
 

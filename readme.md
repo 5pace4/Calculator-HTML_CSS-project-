@@ -8,7 +8,7 @@
 
 ## Copyrigth
 
-    &copy;tofayel
+    ©tofayel
     
 ## Credit
 
